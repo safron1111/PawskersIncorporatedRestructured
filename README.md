@@ -7,7 +7,7 @@
 >So far I only have one part I made for setting up the mod, a fusion pellets tank, and another part which is a nuclear engine heavily based on the Phoebus 2A from Project Rover.
 >
 >The point of this project will mostly be to add engines and mechanics I want to see in the game, or in my own fashion. So while I will focus on filling gaps with other mods, there will be overlap."
-(Copied from KSP Modding Society Discord) \
+(Copied from KSP Modding Society Discord) 
 
 ## Dependencies: (This list will grow with time.)
 Module Manager: https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/ https://github.com/sarbian/ModuleManager \
