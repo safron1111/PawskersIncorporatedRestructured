@@ -19,11 +19,11 @@ VABOrganizer: https://github.com/KSPModStewards/VABOrganizer \
 Community Tech Tree: https://forum.kerbalspaceprogram.com/topic/90530-112x-community-tech-tree-august-13/ https://spacedock.info/mod/534/Community%20Tech%20Tree https://github.com/post-kerbin-mining-corporation/CommunityTechTree 
 
 ## Images
-###v0.2.0
+### v0.2.0
 <img width="1669" height="488" alt="Screenshot 2026-06-21 165630" src="https://github.com/user-attachments/assets/d62af786-e565-49f4-8453-786ef7706cba" />
 <img width="1329" height="661" alt="Screenshot 2026-06-21 165547" src="https://github.com/user-attachments/assets/8038b025-1100-41e1-97bf-4ccfb3b0f417" />
 <img width="1741" height="655" alt="Screenshot 2026-06-20 145800" src="https://github.com/user-attachments/assets/8fc718da-2c9a-4393-805a-63491f1a1b5b" />
-###v.0.1.0
+### v0.1.0
 <img width="1484" height="580" alt="Screenshot 2026-06-19 152004" src="https://github.com/user-attachments/assets/cd3ce5f9-ca0c-4ba9-9808-91924b1987b1" />
 <img width="1518" height="737" alt="Screenshot 2026-06-19 151924" src="https://github.com/user-attachments/assets/eba5dc94-0d82-4926-b85c-3ca32f78778a" />
 <img width="1019" height="835" alt="Screenshot 2026-06-15 164717" src="https://github.com/user-attachments/assets/0cf46510-beaa-4d94-9608-de3cc2fcc3d5" />
