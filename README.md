@@ -18,6 +18,19 @@ Background Thrust (When Configurable Isp Engines are added): https://forum.kerba
 VABOrganizer: https://github.com/KSPModStewards/VABOrganizer \
 Community Tech Tree: https://forum.kerbalspaceprogram.com/topic/90530-112x-community-tech-tree-august-13/ https://spacedock.info/mod/534/Community%20Tech%20Tree https://github.com/post-kerbin-mining-corporation/CommunityTechTree 
 
+# Installation
+
+1. Download the lastest stable release or fix from the releases tab: https://github.com/safron1111/PawskersIncorporatedRestructured/releases
+<img width="1915" height="936" alt="Screenshot 2026-06-22 093205" src="https://github.com/user-attachments/assets/6ea6a321-27aa-4a05-a4c8-0e6162153468" />
+
+2. Open the zip and subfolder and locate PawskersIncRestructured:
+<img width="825" height="239" alt="Screenshot 2026-06-22 093345" src="https://github.com/user-attachments/assets/6d002c59-0df9-4690-b324-63d5b6c626e1" />
+
+3. Copy the folder into your GameData:
+<img width="674" height="170" alt="image" src="https://github.com/user-attachments/assets/e77a7bc8-ad1d-4fad-a477-45ad96b5422f" />
+
+4. Launch KSP (If you experience issues I reccomend placing them on the Issues tab of the github repository for help.)
+
 ## Images
 v0.2.0
 <img width="1669" height="488" alt="Screenshot 2026-06-21 165630" src="https://github.com/user-attachments/assets/d62af786-e565-49f4-8453-786ef7706cba" />
