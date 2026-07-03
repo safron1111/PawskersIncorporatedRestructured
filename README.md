@@ -14,11 +14,16 @@ Module Manager: https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module
 Community Resources: https://forum.kerbalspaceprogram.com/topic/83007-1x-community-resource-pack/ https://github.com/UmbraSpaceIndustries/CommunityResourcePack 
 
 ## Compatible Mods: (This list will also likely grow with time.)
-Background Thrust (When Configurable Isp Engines are added): https://forum.kerbalspaceprogram.com/topic/228989-1125-background-thrust/ https://spacedock.info/mod/4009/Background%20Thrust https://github.com/Phantomical/BackgroundThrust \
-VABOrganizer: https://github.com/KSPModStewards/VABOrganizer \
+VAB Organizer: https://github.com/KSPModStewards/VABOrganizer \
 Community Tech Tree: https://forum.kerbalspaceprogram.com/topic/90530-112x-community-tech-tree-august-13/ https://spacedock.info/mod/534/Community%20Tech%20Tree https://github.com/post-kerbin-mining-corporation/CommunityTechTree 
 
-There are no known incompatibilities as of now.
+## Recommended Mods: 
+Background Thrust: https://forum.kerbalspaceprogram.com/topic/228989-1125-background-thrust/ https://spacedock.info/mod/4009/Background%20Thrust https://github.com/Phantomical/BackgroundThrust \
+Better Time Warp Continued: https://forum.kerbalspaceprogram.com/topic/154935-112x-bettertimewarpcontinued-customizable-time-warp-and-lossless-physics-warp/ https://spacedock.info/mod/1162/BetterTimeWarpContinued https://github.com/linuxgurugamer/BetterTimeWarpContinued \
+Cryo Tanks (For cryogenic resources like LH2): https://forum.kerbalspaceprogram.com/topic/195042-112x-cryotanks-liquid-hydrogen-storage-and-management-july-21/ https://github.com/post-kerbin-mining-corporation/CryoTanks 
+
+## Incompatible Mods:
+There are no known incompatible mods as of now.
 
 # Installation
 
