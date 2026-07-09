@@ -1,4 +1,4 @@
-<img width="1439" height="434" alt="image" src="https://github.com/user-attachments/assets/d85a33e2-ee86-4669-b6c4-03e2f1609c3a" /># Pawskers Incorporated Restructured
+# Pawskers Incorporated Restructured
 
 >"I have finally followed through and I am making a new mod that is technically based on Pawksers Inc. but doesn't have much relation to it in terms of parts.
 >
