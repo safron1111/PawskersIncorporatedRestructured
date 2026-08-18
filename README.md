@@ -45,6 +45,9 @@ Waterfall: https://forum.kerbalspaceprogram.com/topic/196309-112x-waterfall-a-fr
 
 4. Launch KSP (If you experience issues I reccomend placing them on the Issues tab of the github repository for help.)
 
+# Patches
+Patches are made to be optional, inside the patches folder of the mod, there are instructions on disabling patches. Alternatively, delete the patch's file.
+
 ## Images
 v0.3.0
 <img width="1173" height="643" alt="image" src="https://github.com/user-attachments/assets/f9936c7b-7906-4f47-a707-8aeed6c5958a" />
