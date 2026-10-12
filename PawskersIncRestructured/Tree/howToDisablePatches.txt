@@ -1,0 +1,6 @@
+1. make sure file extensions are enabled in your folder explorer
+2. find the patch you want to disable
+3. rename the patch so that the file extension is .txt instead of .cfg
+
+you're done!
+you will have to re-disable patches when updating the mod
